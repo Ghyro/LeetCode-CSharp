@@ -2,8 +2,8 @@ using System;
 
 namespace Medium
 {
-	class MaximumIceCreamBars
-	{
+  class MaximumIceCreamBars
+  {
     public int MaxIceCream(int[] costs, int coins)
     {
       Array.Sort(costs);
